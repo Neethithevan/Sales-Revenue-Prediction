@@ -1,5 +1,5 @@
 # Sales-Revenue-Prediction
-Predicting the sales revenue of a company on the basis of its investment in different advertisement medium such as TV, radio and newspaper. The data set Advertisement.csv contains the money spent on these different modes of advertisement vs the sales revenue. The project was sourced from Coursera's guided project series. This course uses the Rhyme platform to walk through the project.
+Predicting the sales revenue of a company on the basis of its investment in different advertisement medium such as TV, radio and newspaper. The data set Advertisement.csv contains the money spent on these different modes of advertisement and the sales revenue. The project was sourced from Coursera's guided project series. This course uses the Rhyme platform to walk through the project.
 </br>
 You can verfy the certificate of course completion  here https://coursera.org/share/849d43d2877691ff4f526c3710b48e8a
 ### Lessons Learnt
